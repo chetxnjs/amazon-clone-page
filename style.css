@@ -16,7 +16,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("C:\Users\ranac\OneDrive\Desktop\imagesamazon_logo.png");
+    background-image: url("C:\Users\ranac\OneDrive\Desktop\images\amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -124,7 +124,7 @@ span{
 }
 /* hero secton */
 .hero-section{
-    background-image: url("C:\Users\ranac\OneDrive\Desktop\imageshero_image.jpg");
+    background-image: url("C:\Users\ranac\OneDrive\Desktop\images\hero_image.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
@@ -213,7 +213,7 @@ ul a {
     align-items: center;
 }
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("C:\Users\ranac\OneDrive\Desktop\images\amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
